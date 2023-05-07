@@ -27,6 +27,11 @@ body{
 #operadacoes{
     text-align: right ;
 }
+#last-operation{
+    overflow-wrap: break-word;
+    font-size: 4em;
+    min-height: 1em;
+}
 #previo-operation,
 #current-operation{
     padding: 0.25em;
